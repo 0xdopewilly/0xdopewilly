@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xdopewilly
+- 👋 Hi, I’m @0xwilly
 - 👀 I’m interested in collaborating on Web3 projects
 - 🌱 I’m currently learning Solidity, Js and the EVM
 - 💞️ I’m looking to collaborate on Web3 projects
